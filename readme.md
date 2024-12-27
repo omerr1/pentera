@@ -32,6 +32,6 @@ I thought about implementing multiprocess in the minion servers as well but coul
 overall it takes around a minute to crack a list of passwords.
 
 Future Improvements:
-    ** Minion Multi-Process
-    ** Master detection of Minion crashes (Currently, with this architecture, I can detect it but cant really do anything about it)
-    ** Better understanding of the domain and password cracking - compare the results to actual softwares such as hashcat.
+- Minion Multi-Process
+- Master detection of Minion crashes (Currently, with this architecture, I can detect it but cant really do anything about it)
+- Better understanding of the domain and password cracking - compare the results to actual softwares such as hashcat.
