@@ -1,5 +1,5 @@
 Requirements:
-- Python 3.10+
+- Python 3.9+
 - pip install -r requirements.txt
 
 To run the project we use the devbox. Just run the following command in the terminal:
